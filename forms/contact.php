@@ -1,5 +1,4 @@
 <?php
-// Replace themrx66@gmail.com with your real receiving email address
 $receiving_email_address = 'themrx66@gmail.com';
 
 // Check if the required form fields are set
